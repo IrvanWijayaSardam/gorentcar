@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "514347165690",
+    "project_id": "rental-mobil-389304",
+    "storage_bucket": "rental-mobil-389304.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514347165690:android:d22928759c6e83eec5e643",
+        "android_client_info": {
+          "package_name": "com.example.gorentcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514347165690-4302ge2fgeakqso3tsq0ncqsgqtm86se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTfmea_wckProMVivuKoXVRRoKE9ArwEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514347165690-4302ge2fgeakqso3tsq0ncqsgqtm86se.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "514347165690-dgk569mla1qo0spc022g1un4998iser6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gorentcar"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514347165690:android:955f99617ca8df98c5e643",
+        "android_client_info": {
+          "package_name": "com.example.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514347165690-4302ge2fgeakqso3tsq0ncqsgqtm86se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTfmea_wckProMVivuKoXVRRoKE9ArwEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514347165690-4302ge2fgeakqso3tsq0ncqsgqtm86se.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "514347165690-dgk569mla1qo0spc022g1un4998iser6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gorentcar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
